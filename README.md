@@ -6,7 +6,7 @@ An end-to-end **Automated Machine Learning (AutoML)** application built using **
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+**https://automl-platform-ai.streamlit.app/**
 
 ---
 
